@@ -1,5 +1,7 @@
 #  GitHub-Messenger
 
+![alt text](https://github.com/lkmfz/GitHub-Messeger/blob/master/GitHub-Messenger/Resources/screenshot-1.png "Users page")
+![alt text](https://github.com/lkmfz/GitHub-Messeger/blob/master/GitHub-Messenger/Resources/screenshot-2.png "Messanging page")
 
 ## 📲 Installation
 Simply run the project ⏩
