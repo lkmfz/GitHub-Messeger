@@ -24,10 +24,4 @@ Simply run the project ⏩
 
 
 ## 🏗 Architecture
-![alt text](https://github.com/m-rec/14feefc97d252cd97a55e1cff7e9118798697ee5/blob/develop/GitHub-Messenger/GitHub-Messenger/Resources/VIPER-diagram.png "VIPER's overview components")
-
-
-## ✉️ Contact
-Email: [luckman.fauzi@gmail.com](luckman.fauzi@gmail.com)
-
-LinkedIn: [Luqman Fauzi](https://www.linkedin.com/in/luqman-fauzi-523848a9/i)
+![alt text](https://github.com/lkmfz/GitHub-Messeger/blob/master/GitHub-Messenger/Resources/VIPER-diagram.png "VIPER's overview components")
